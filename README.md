@@ -15,7 +15,10 @@ This Python solution calculates credit ratings for Residential Mortgage-Backed S
 2. Clone this repository
 3. No additional dependencies are required beyond standard Python libraries
 
-## How to run ?
+## Run the unit tests with:
+python -m unittest test_credit_rating.py   
+
+## How to run project ?
  Run the script:
 python credit_rating.py
 
